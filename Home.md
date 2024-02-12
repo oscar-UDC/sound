@@ -32,19 +32,19 @@ David Esteban Martínez
 
 **SoundShare** es una aplicación que permite a sus usuarios compartir canciones y gustos musicales con el resto, buscando así una experiencia social y musical única. A continuación, se detallan las funcionalidades básicas de la app:
 
-**1. Subir posts con canciones**
+**1. Subir posts con canciones (Iker García Calviño)**
 
 Los usuarios podrán compartir publicaciones sobre las canciones que quieran y podrán añadir un texto descriptivo si lo desean.
 
-**2. Gestión de perfiles de usuario**
+**2. Gestión de perfiles de usuario (Mar Alonso García)**
 
 Los usuarios se podrán registrar en la app y podrán editar sus perfiles, cada usuario tendrá la posibilidad de poner una canción como estado del perfil.
 
-**3. Sistema de amigos**
+**3. Sistema de amigos (Jaime Roade Conejo)**
 
 Los usuarios podrán agregar a más usuarios para poder interactuar dentro de la aplicación.
 
-**4. Canción del día**
+**4. Canción del día (David Esteban Martínez)**
 
 Los usuarios podrán agregar una canción diaria a una sección especial y basándose en la actividad de los usuarios se establecerá un _ranking_ de popularidad.
 
@@ -52,7 +52,7 @@ Los usuarios podrán agregar una canción diaria a una sección especial y basá
 
 Como funcionalidades extra se van a incluir:
 
-* Reconocimiento de canciones mediante el micrófono
-* Acciones interactivas con los sensores del dispositivo
-* Estadísticas dependiendo de la actividad
-* Integración de la geolocalización de los usuarios a la hora de compartir canciones
+* Reconocimiento de canciones mediante el micrófono (Iker García Calviño)
+* Acciones interactivas con los sensores del dispositivo (Mar Alonso García)
+* Estadísticas dependiendo de la actividad (Jaime Roade Conejo)
+* Integración de la geolocalización de los usuarios a la hora de compartir canciones (David Esteban Martínez)
