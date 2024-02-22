@@ -10,25 +10,25 @@ Hay aplicaciones similares a SoundShare en el mercado, algunas tienen un funcion
 
 ## X (Twitter)
 
-Es una red social que permite a los usuarios compartir mensajes cortos, llamados "tweets". Los usuarios pueden seguir a otros para mantenerse actualizados sobre sus tweets y participar mediante likes, retweets y respuestas. El punto fuerte de esta aplicación es precisamente la comunidad que crea con sus usuarios y la creación de un término tan característico como es el nombre propio que tienen sus posts.
+Es una red social que permite a los usuarios compartir mensajes cortos, llamados "tweets". Los usuarios pueden seguir a otros para mantenerse actualizados sobre sus tweets y participar mediante likes, retweets y respuestas. El punto fuerte de esta aplicación es precisamente la comunidad que crea con sus usuarios y la creación de un término tan característico como es el nombre propio que tienen sus posts. SoundShare tendría un sistema de posts similar pero más enfocado en compartir canciones con un pequeño comentario que el usuario quiera compartir en ese momento.
 
 ![Captura de X](https://github.com/ikergcalvino/SoundShare/blob/main/img/x_screenshot.png)
 
 ## SoundCloud
 
-Plataforma de distribución de audio en línea que permite a músicos, artistas y creadores de podcasts cargar, compartir y promocionar su música y contenido de audio. Los usuarios pueden descubrir una amplia variedad de géneros y creadores independientes. Esta aplicación se centra en compartir música pero bastante enfocada en creadores y no tanto en consumidores.
+Plataforma de distribución de audio en línea que permite a músicos, artistas y creadores de podcasts cargar, compartir y promocionar su música y contenido de audio. Los usuarios pueden descubrir una amplia variedad de géneros y creadores independientes. Esta aplicación se centra en compartir música pero bastante enfocada en creadores y no tanto en consumidores, algo diferente a lo que queremos conseguir con nuestra aplicación. SoundShare busca crear comunidad y compartir gustos con amigos o gente de todas partes.
 
 ![Captura de SoundCloud](https://github.com/ikergcalvino/SoundShare/blob/main/img/soundcloud_screenshot.png)
 
 ## BeReal
 
-Es una aplicación que promueve la autenticidad y motiva a los usuarios a compartir una parte de su vida en tiempo real, lo cual es uno de sus puntos más fuertes. Es una aplicación sencilla pero con un concepto muy innovador que atrae a muchos usuarios y los "engancha".
+Es una aplicación que promueve la autenticidad y motiva a los usuarios a compartir una parte de su vida en tiempo real, lo cual es uno de sus puntos más fuertes. Es una aplicación sencilla pero con un concepto muy innovador que atrae a muchos usuarios y los "engancha". Este sistema es muy similar al incluido en nuestra aplicación, compartir la canción del día, una canción que el usuario siente que se corresponde con ese día.
 
 ![Captura de BeReal](https://github.com/ikergcalvino/SoundShare/blob/main/img/bereal_screenshot.png)
 
 ## Turn Up - Match through music!
 
-Esta aplicación te permite conocer personas indicando tus artistas, canciones y estilos musicales favoritos, haciendo _match_ a través de estos. La aplicación también permite crear _blind tests_, que son un conjuntos de preguntas cortas sobre tus gustos, que sirven para interactuar con el resto de usuarios y proporcionarles una experiencia nueva, divertida y característica de esta aplicación.
+Esta aplicación te permite conocer personas indicando tus artistas, canciones y estilos musicales favoritos, haciendo _match_ a través de estos. La aplicación también permite crear _blind tests_, que son un conjuntos de preguntas cortas sobre tus gustos, que sirven para interactuar con el resto de usuarios y proporcionarles una experiencia nueva, divertida y característica de esta aplicación. Nuestra aplicación se diferenciaría de Turn Up principalmente en el enfoque de las relaciones entre usuarios, no está enfocado en una relación si no es los gustos de los usuarios.
 
 ![Captura de Turn Up](https://github.com/ikergcalvino/SoundShare/blob/main/img/turnup_screenshot.png)
 
