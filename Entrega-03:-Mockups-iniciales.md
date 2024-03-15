@@ -4,4 +4,4 @@
 
 # Mockups iniciales
 
-Los mockups de la aplicación se pueden ver en: [Andev | Marvel](https://marvelapp.com/prototype/a4cj23d).
+Los mockups de la aplicación se pueden ver en: [SoundShare | Marvel](https://marvelapp.com/prototype/a4cj23d).
