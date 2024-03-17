@@ -1,33 +1,17 @@
 # SoundShare
 
-## Log In
+## Inicio de sesión y registro
 
-![](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_login.jpg)
+![Inicio de sesión y registro](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_login_signup.png)
 
-## Sign Up
+## Inicio, perfil y reconocimiento de canción
 
-![](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_signup.jpg)
+![Inicio, perfil y reconocimiento de canción](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_home_profile.png)
 
-## Home
+## Búsqueda, notificaciones y mapa
 
-![](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_home.jpg)
+![Búsqueda, notificaciones y mapa](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_search_notifications_map.png)
 
-## Search
+## Publicar posts
 
-![](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_search.jpg)
-
-## Add
-
-![](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_add.jpg)
-
-## Notifications
-
-![](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_notifications.jpg)
-
-## Map
-
-![](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_map.jpg)
-
-## Profile
-
-![](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_profile.jpg)
+![Publicar posts](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_post.jpg)
