@@ -1,0 +1,1 @@
+Esta entrega se puede encontrar en la release: [Entrega 05: Integración y verificación de la UI](https://github.com/ikergcalvino/SoundShare/releases/tag/v0.1).
