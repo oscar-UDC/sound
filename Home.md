@@ -8,4 +8,5 @@ Welcome to the SoundShare wiki!
 * [Entrega 02: Target, estudio de mercado y arquitectura de comunicaciones](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-02:-Target,-estudio-de-mercado-y-arquitectura-de-comunicaciones)
 * [Entrega 03: Mockups iniciales](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-03:-Mockups-iniciales)
 * [Entrega 04: Diseño de pantallas con editor UIs](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-04:-Dise%C3%B1o-de-pantallas-con-editor-UIs)
-* [Entrega 06: División en componentes de la app](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-06:-Divisi%C3%B3n-en-componentes-de-la-app)
+* [Entrega 05: Integración y verificación de la UI](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-05:-Integraci%C3%B3n-y-verificaci%C3%B3n-de-la-UI)
+* [Entrega 06: Componentes y fragmentos](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-06:-Divisi%C3%B3n-en-componentes-de-la-app)
