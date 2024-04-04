@@ -32,3 +32,7 @@ La actividad de inicio de sesión lanza la de registro y viceversa. Estas dos ac
 # Mockups de pantallas grandes o tablets
 
 Podemos ver todos los mockups de la aplicación en: [SoundShare | Marvel](https://marvelapp.com/prototype/a4cj23d).
+
+***
+
+Esta entrega se puede encontrar en la release: [Entrega 06: Componentes y fragmentos](https://github.com/ikergcalvino/SoundShare/releases/tag/v0.2).
