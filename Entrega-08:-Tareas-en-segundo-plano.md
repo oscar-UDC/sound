@@ -7,4 +7,4 @@ Las tareas que se van a realizar en segundo plano en la aplicación son las sigu
 
 ***
 
-Esta entrega se puede encontrar en la release: [Entrega 08: Tareas en segundo plano]().
+Esta entrega se puede encontrar en la release: [Entrega 08: Tareas en segundo plano](https://github.com/ikergcalvino/SoundShare/releases/tag/v0.3).
