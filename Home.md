@@ -11,3 +11,4 @@ Welcome to the SoundShare wiki!
 * [Entrega 05: Integración y verificación de la UI](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-05:-Integraci%C3%B3n-y-verificaci%C3%B3n-de-la-UI)
 * [Entrega 06: Componentes y fragmentos](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-06:-Componentes-y-fragmentos)
 * [Entrega 08: Tareas en segundo plano](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-08:-Tareas-en-segundo-plano)
+* [Entrega 09: Geolocalización](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-09:-Geolocalizaci%C3%B3n)
