@@ -1,3 +1,3 @@
 # Funcionalidades de almacenamiento
 * **Modo Nocturno:** Guardamos la preferencia del usuario sobre el modo nocturno, permitiendo que la aplicación ajuste su interfaz en consecuencia entre sesiones.
-* **Ubicación en los Posts por Defecto:** Almacenamos la preferencia del usuario sobre si desea que los posts muestren la ubicación desde donde han sido subidos, asegurando una experiencia más fluida sin la necesidad de seleccionar la preferencia repetidamente.
+* **Ubicación en los Posts por defecto:** Almacenamos la preferencia del usuario sobre si desea que los posts muestren la ubicación desde donde han sido subidos, asegurando una experiencia más fluida sin la necesidad de seleccionar la preferencia repetidamente.
