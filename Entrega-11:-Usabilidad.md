@@ -4,3 +4,5 @@
 ![image](https://github.com/ikergcalvino/SoundShare/assets/90251807/f200c8a4-b7b5-4e5f-b0de-6ae061a5afcc)
 
 * **Experiencia de usuario:** En cuanto a la experiencia de usuario, implementamos ciertas herramientas que convierten a nuestra aplicación en una opción más atractiva y fluida de utilizar, como es acceder a ella por medio de los métodos de acceso de Google. Está pensada para ser utilizada por un público general, por lo que ningún tipo de usuario debería considerarla compleja de utilizar, gracias en mayor parte a la simpleza anteriormente mencionada. También ofrecemos las Daily Songs, con las que se pretende atraer al usuario a utilizar la aplicación todos los días aunque sea para publicar únicamente esa canción. Finalmente, cuenta con una pantalla principal donde se muestran las publicaciones de los usuarios por medio de un scroll vertical, facilitando al usuario su visualización.
+
+Además de esto, utilizamos la herramienta oficial de Google "Test de Accesibilidad", sin encontrar fallos, para comprobar fallos de accesibilidad no descubiertos, únicamente para asegurarnos de que tenemos en cuenta todos los puntos posibles.
