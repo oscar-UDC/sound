@@ -1,5 +1,6 @@
 # Usabilidad
 * **Simpleza:** La interfaz de nuestra aplicación tiene una perspectiva muy simple, ya que consideramos que al usuario le favorece que nuestra aplicación tenga un diseño sencillo e intuitivo. Esto lo logramos por medio de unos iconos representativos y pocas opciones en pantalla, que no lleven al usuario a pensar demasiado al utilizarla. Como se puede observar en la siguiente imagen, tenemos en la zona inferior de la pantalla la barra de navegación que nos sirve para recorrer todas las opciones que nos ofrece la aplicación. Además, utilizamos una paleta de colores uniforme por toda la aplicación, con tonos suaves y sin blancos puros para no molestar la vista del usuario. Para ello, hicimos uso del Material Design, que nos permite utilizar la misma paleta de colores por toda la aplicación de manera sencilla, e insertar botones flotantes como el de Shazam (en la zona inferior derecha de la imagen), que mejoran la usabilidad.
+Al mismo tiempo, nos hemos asegurado de mantener todas estas cualidades en el modo nocturno, cada vez más común en diferentes tipos de dispositivos, y comprobado el funcionamiento tanto con el dispositivo en vertical como en formato apaisado
 
 ![image](https://github.com/ikergcalvino/SoundShare/assets/90251807/f200c8a4-b7b5-4e5f-b0de-6ae061a5afcc)
 
