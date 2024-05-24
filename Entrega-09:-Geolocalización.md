@@ -15,10 +15,9 @@ Por otro lado, utilizamos la ubicación en tiempo real para posicionar al usuari
 
 Mapa sin posts:
 
-![Screenshot_2024-05-24-17-38-11-471_com muei soundshare](https://github.com/ikergcalvino/SoundShare/assets/90251807/a42bff4b-1a27-4344-becf-56d75089d005){width=10%}
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/a42bff4b-1a27-4344-becf-56d75089d005" alt="Mapa sin posts" width="300">
 
 Mapa con posts:
-
 
 
 ***
