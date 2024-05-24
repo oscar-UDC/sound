@@ -3,8 +3,11 @@
 Al mismo tiempo, nos hemos asegurado de mantener todas estas cualidades en el modo nocturno, cada vez más común en diferentes tipos de dispositivos, y comprobado el funcionamiento tanto con el dispositivo en vertical como en formato apaisado
 
 ![image](https://github.com/ikergcalvino/SoundShare/assets/90251807/f200c8a4-b7b5-4e5f-b0de-6ae061a5afcc)
-![Móvil modo nocturno](https://github.com/ikergcalvino/SoundShare/blob/main/img/30365fba-46ae-4c11-889c-61781503a3fc.jfif)
-![Móvil modo nocturno apaisado](https://github.com/ikergcalvino/SoundShare/blob/main/img/apaisado_negro.jfif)
+
+<img src="https://github.com/ikergcalvino/SoundShare/blob/main/img/30365fba-46ae-4c11-889c-61781503a3fc.jfif" alt="Móvil modo nocturno" width="300">
+
+<img src="https://github.com/ikergcalvino/SoundShare/blob/main/img/apaisado_negro.jfif" alt="Móvil modo nocturno apaisado" width="600">
+
 
 * **Experiencia de usuario:** En cuanto a la experiencia de usuario, implementamos ciertas herramientas que convierten a nuestra aplicación en una opción más atractiva y fluida de utilizar, como es acceder a ella por medio de los métodos de acceso de Google. Está pensada para ser utilizada por un público general, por lo que ningún tipo de usuario debería considerarla compleja de utilizar, gracias en mayor parte a la simpleza anteriormente mencionada. También ofrecemos las Daily Songs, con las que se pretende atraer al usuario a utilizar la aplicación todos los días aunque sea para publicar únicamente esa canción. Finalmente, cuenta con una pantalla principal donde se muestran las publicaciones de los usuarios por medio de un scroll vertical, facilitando al usuario su visualización.
 
