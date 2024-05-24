@@ -14,4 +14,4 @@
 
 ## Publicar posts
 
-![Publicar posts](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_post.jpg)
+<img src="https://github.com/ikergcalvino/SoundShare/blob/main/img/04_post.jpg" alt="Publicar posts" width="300">
