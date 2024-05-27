@@ -21,3 +21,5 @@ El propio micrófono del dispositivo cuenta como sensor, y lo utilizamos como me
 Finalizamos las funcionalidades que nos quedaban pendientes hasta el momento y ofrecemos una aplicación completa con los apartados que pretendíamos cubrir, junto con una documentación detallada a lo largo de esta wiki que ayude a comprender el proceso seguido para su realización.
 
 # Modelo de negocio
+
+![Edit org_design (2)](https://github.com/ikergcalvino/SoundShare/assets/90251807/e3375f13-78d1-4f59-a7e9-a1199e3b5b6e)
