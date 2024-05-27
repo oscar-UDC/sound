@@ -1,6 +1,7 @@
 # Funcionalidades de geolocalización
 
 * Ubicación de los posts
+
 Para cada post que suba un usuario, tiene la posibilidad de introducir la ubicación en la que se encuentra al momento de publicarlo. Esto nos permite guardar la posición en la que se encuentra el usuario y que se muestre en el mapa para que sus amigos puedan verlo. Esta opción se encuentra en la esquina superior derecha de la pantalla de publicar post, mediante un botón que nos permite marcar o desmarcar la opción.
 
 Opción desmarcada:
@@ -18,6 +19,12 @@ Mapa sin posts:
 <img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/a42bff4b-1a27-4344-becf-56d75089d005" alt="Mapa sin posts" width="300">
 
 Mapa con posts:
+
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/5442401c-4e13-4c90-81ec-36696ad291b9" alt="Mapa con posts" width="300">
+
+También obligamos al usuario a tener que aceptar el uso de la ubicación para la aplicación pueda acceder a ella:
+
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/d7cf7174-6b55-40bc-bf7c-7303cf451a45" alt="Permiso de ubicación" width="300">
 
 
 ***
