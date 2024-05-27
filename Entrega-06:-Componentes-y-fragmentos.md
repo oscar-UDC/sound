@@ -3,7 +3,7 @@
 ## ¿Qué se pretende implementar como una actividad?
 
 * Inicio de sesión (LoginActivity)
-* Resgistro en la aplicación (SignupActivity)
+* Registro en la aplicación (SignupActivity)
 * Subir contenido (PostActivity)
 * Reconocimiento de música
 * Núcleo de la aplicación (MainActivity)
@@ -27,7 +27,7 @@ El resto de elementos de la barra de navegación:
 
 ## ¿Quién lanza a quién y quién hace uso de los fragments o los servicios?
 
-La actividad de inicio de sesión lanza la de registro y viceversa. Estas dos actividades lanzan a su vez, la actividad principal, la cual es el núcleo de la aplicación. Podemos navegar entre los distintos fragments y acceder a la actividad para publicar contenido a través de la barra de navegación. Además la actividad principal contiene un botón en todo momento para llamar a la funcionalidad de reconocimiento de música.
+La actividad de inicio de sesión lanza la de registro y viceversa. Estas dos actividades lanzan a su vez, la actividad principal, la cual es el núcleo de la aplicación. Podemos navegar entre los distintos fragments y acceder a la actividad para publicar contenido a través de la barra de navegación. Además, la actividad principal contiene un botón en todo momento para llamar a la funcionalidad de reconocimiento de música.
 
 # Mockups de pantallas grandes o tablets
 
