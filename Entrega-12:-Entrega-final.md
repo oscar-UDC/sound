@@ -12,4 +12,6 @@ En cuanto a audios, cabe mencionar el uso de Shazam para reconocimiento de audio
 
 # Producto Mínimo Viable (PMV)
 
+Finalizamos las funcionalidades que nos quedaban pendientes hasta el momento y ofrecemos una aplicación completa con los apartados que pretendíamos cubrir, junto con una documentación detallada a lo largo de esta wiki que ayude a comprender el proceso seguido para su realización.
+
 # Modelo de negocio
