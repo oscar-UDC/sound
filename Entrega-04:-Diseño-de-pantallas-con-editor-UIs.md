@@ -27,5 +27,5 @@ La de perfil, por otro lado, vio grandes modificaciones en su interfaz, para hac
 
 Finalmente, la pantalla de publicar posts también vio mejoras en su interfaz:
 
-<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/1a1c2c3b-ec09-48c1-b861-3e702cbcc467" alt="Publicar posts 2" width="300">
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/e223f432-414e-4b94-a52c-09628bea23dd" alt="Publicar posts 2" width="300">
 <img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/00062bd8-2169-4390-8125-53b8f1695dcc" alt="Publicar posts 3" width="300">
