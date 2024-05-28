@@ -17,7 +17,7 @@ El propio micrófono del dispositivo cuenta como sensor, y lo utilizamos como me
 ## Integración con Shazam
 Al agitar el teléfono, se abre la funcionalidad de Shazam y se comienza a analizar el audio entrante para mostrar la canción que se está escuchando:
 
-![Screenshot_2024-05-28-23-03-18-281_com muei soundshare](https://github.com/ikergcalvino/SoundShare/assets/90251807/3f7becb2-a28b-410d-aea9-b280e90a3033)
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/3f7becb2-a28b-410d-aea9-b280e90a3033" alt="Shazam" width="300">
 
 # Producto Mínimo Viable (PMV)
 
