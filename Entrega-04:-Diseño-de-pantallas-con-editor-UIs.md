@@ -13,8 +13,9 @@ Tras ligeras modificaciones para hacerla más consistente, la de registro es la 
 
 ![Inicio, perfil y reconocimiento de canción](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_home_profile.png)
 
-La de perfil, por otro lado, vio grandes modificaciones en su interfaz, para hacerla más intuitiva y sencilla de utilizar:
+La de inicio y perfil, por otro lado, vio grandes modificaciones en su interfaz, para hacerla más intuitiva y sencilla de utilizar:
 
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/8e08a8c5-5543-4bd6-a45a-d364802ea843" alt="Inicio" width="300">
 <img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/7e91bcaa-055a-42b1-a7aa-d3f8e5ac0920" alt="Perfil" width="300">
 <img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/a764110e-278b-4fa7-8080-b4c81731e045" alt="Perfil 2" width="300">
 
