@@ -13,6 +13,12 @@ Hacemos uso del sensores de posición del dispositivo para obtener la geolocaliz
 Hacemos uso de la función implementada de base en todos los dispositivos Android para girar la pantalla entre modo vertical y apaisado, ya que el usuario tiene la opción de utilizar la aplicación en ambas orientaciones.
 ## Micrófono
 El propio micrófono del dispositivo cuenta como sensor, y lo utilizamos como mencionamos en el apartado anterior para reconocimiento automático de canciones mediante Shazam.
+
+## Integración con Shazam
+Al agitar el teléfono, se abre la funcionalidad de Shazam y se comienza a analizar el audio entrante para mostrar la canción que se está escuchando:
+
+![Screenshot_2024-05-28-23-03-18-281_com muei soundshare](https://github.com/ikergcalvino/SoundShare/assets/90251807/3f7becb2-a28b-410d-aea9-b280e90a3033)
+
 # Producto Mínimo Viable (PMV)
 
 Finalizamos las funcionalidades que nos quedaban pendientes hasta el momento y ofrecemos una aplicación completa con los apartados que pretendíamos cubrir, junto con una documentación detallada a lo largo de esta wiki que ayude a comprender el proceso seguido para su realización.
