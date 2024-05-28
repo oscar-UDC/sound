@@ -4,9 +4,10 @@
 
 ![Inicio de sesión y registro](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_login_signup.png)
 
-Tras ligeras modificaciones para hacerla más consistente, la de registro es la siguiente actualmente:
+Tras ligeras modificaciones para hacerla más consistente, la de registro es la siguiente actualmente. También mostramos la de inicio de sesión por medio de la autenticación de Google:
 
 <img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/29a859ac-b071-4e42-b52b-4c4de1a873c3" alt="Registro" width="300">
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/6a64d147-356c-49d0-9039-af243dbf2926" alt="Google" width="300">
 
 ## Inicio, perfil y reconocimiento de canción
 
@@ -14,8 +15,8 @@ Tras ligeras modificaciones para hacerla más consistente, la de registro es la 
 
 La de perfil, por otro lado, vio grandes modificaciones en su interfaz, para hacerla más intuitiva y sencilla de utilizar:
 
-<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/efa18a06-f4a2-4acf-a390-8e0c76e4189f" alt="Perfil" width="300">
-
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/7e91bcaa-055a-42b1-a7aa-d3f8e5ac0920" alt="Perfil" width="300">
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/a764110e-278b-4fa7-8080-b4c81731e045" alt="Perfil 2" width="300">
 
 ## Búsqueda, notificaciones y mapa
 
