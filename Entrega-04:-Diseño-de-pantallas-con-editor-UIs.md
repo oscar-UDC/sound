@@ -21,6 +21,12 @@ La de perfil, por otro lado, vio grandes modificaciones en su interfaz, para hac
 
 ![Búsqueda, notificaciones y mapa](https://github.com/ikergcalvino/SoundShare/blob/main/img/04_search_notifications_map.png)
 
+Para la búsqueda y las notificaciones, se ha mejorado notablemente la interfaz:
+
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/2e2c4c6c-72d2-480a-a851-1e906193949a" alt="buscar" width="300">
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/973f31f8-8c7a-4fe8-8f3a-85062b2be50b" alt="buscar 2" width="300">
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/b9db4edb-c099-4456-8d59-91f550ba8df3" alt="notificaciones" width="300">
+
 ## Publicar posts
 
 <img src="https://github.com/ikergcalvino/SoundShare/blob/main/img/04_post.jpg" alt="Publicar posts" width="300">
