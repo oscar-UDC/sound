@@ -1,18 +1,18 @@
 # Target
 
-SoundShare, con su enfoque en la interacción social y la música, tiene un potencial claro para atraer a un público diverso, independientemente del género. Por edad, la población principal sería de entre 18 y 35 años, este grupo demográfico tiende a ser más receptivo a las nuevas tecnologías y está activo en redes sociales. Además, atraerá principalmente a personas con acceso a smartphones y conexión a internet.
+SoundShare, con su enfoque en la interacción social y la música, tiene un potencial claro para atraer a un público diverso, independientemente del género. Por edad, la población principal sería de entre 18 y 35 años, este grupo demográfico tiende a ser más receptivo a las nuevas tecnologías y está activo en redes sociales. Además, atraerá principalmente a personas con acceso a smartphones y conexión a Internet.
 
 Los potenciales clientes y usuarios son aquellos que disfrutan de la música, son activos en redes sociales y están interesados en descubrir nuevas canciones y artistas. Esta audiencia puede estar buscando una plataforma donde poder compartir sus gustos musicales, interactuar con otros usuarios y descubrir nueva música de manera fácil y divertida.
 
 # Estudio de mercado
 
-Hay aplicaciones similares a SoundShare en el mercado, algunas tienen un funcionamiento similar pero no se centran en la música, son más generales, y las que sí lo hacen se centran única y exclusivamente en conocer a gente.
+Hay aplicaciones similares a SoundShare en el mercado, algunas tienen un funcionamiento similar pero no se centran en la música, son más generales, y las que sí lo hacen, se centran única y exclusivamente en conocer a gente.
 
 ## X (Twitter)
 
-Es una red social que permite a los usuarios compartir mensajes cortos, llamados "tweets". Los usuarios pueden seguir a otros para mantenerse actualizados sobre sus tweets y participar mediante likes, retweets y respuestas. El punto fuerte de esta aplicación es precisamente la comunidad que crea con sus usuarios y la creación de un término tan característico como es el nombre propio que tienen sus posts.
+Es una red social que permite a los usuarios compartir mensajes cortos, llamados "tweets". Los usuarios pueden seguir a otros para mantenerse actualizados sobre sus *tweets* y participar mediante *likes*, *retweets* y respuestas. El punto fuerte de esta aplicación es precisamente la comunidad que crea con sus usuarios y la creación de un término tan característico como es el nombre propio que tienen sus *posts*.
 
-SoundShare tendría un sistema de posts similar pero más enfocado en compartir canciones con un pequeño comentario que el usuario quiera compartir en ese momento.
+SoundShare tendría un sistema de *posts* similar pero más enfocado en compartir canciones con un pequeño comentario que el usuario quiera compartir en ese momento.
 
 ![Captura de X](https://github.com/ikergcalvino/SoundShare/blob/main/img/x_screenshot.png)
 
