@@ -14,3 +14,4 @@ Welcome to the SoundShare wiki!
 * [Entrega 09: Geolocalización](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-09:-Geolocalizaci%C3%B3n)
 * [Entrega 10: Almacenamiento](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-10:-Almacenamiento)
 * [Entrega 11: Usabilidad](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-11:-Usabilidad)
+* [Entrega 12: Entrega final](https://github.com/ikergcalvino/SoundShare/wiki/Entrega-12:-Entrega-final)
