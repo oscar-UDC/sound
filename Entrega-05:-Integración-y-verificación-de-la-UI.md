@@ -2,10 +2,9 @@ Para este apartado, se han añadido mensajes de respuesta que se muestran por co
 
 ![Screenshot_1](https://github.com/ikergcalvino/SoundShare/assets/90251807/187b64a2-dfb8-46e7-8a8f-cc80e478fe90)
 
-![Screenshot_2](https://github.com/ikergcalvino/SoundShare/assets/90251807/9cf62bc3-85ae-43bb-a845-2821db1e322c)
+![Screenshot_1](https://github.com/ikergcalvino/SoundShare/assets/90251807/d61feaf5-dda1-46e8-b31e-3fe4f8e2e592)
 
-
-![Screenshot_3](https://github.com/ikergcalvino/SoundShare/assets/90251807/5f52aff7-94de-46bf-89df-b1e54c6063eb)
+![Screenshot_2](https://github.com/ikergcalvino/SoundShare/assets/90251807/4ea93e5d-38c7-4241-aae6-0f1147dbbec1)
 
 La navegación entre estas pantallas ya estaba implementada, por lo que no fue necesario realizar implementar modificaciones para ello.
 
