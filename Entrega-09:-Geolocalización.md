@@ -6,9 +6,17 @@ Para cada post que suba un usuario, tiene la posibilidad de introducir la ubicac
 
 Opción desmarcada:
 
-![Screenshot_1](https://github.com/ikergcalvino/SoundShare/assets/90251807/0932ca8e-3ebb-4df8-a5bd-3d78e6e4dee8)
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/2dd87a8c-624f-4683-a6b8-023b63b8d160" alt="opción desmarcada" width="300">
+
 
 Opción marcada:
+
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/1d9b71cb-39e2-475a-aa65-a57bad6457c4" alt="opción marcada" width="300">
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/599c69b2-2227-40fe-ba97-ed5d24368e9c" alt="opción marcada 2" width="300">
+
+Esta opción se puede activar por defecto en los detalles del perfil para que siempre aparezca activada:
+
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/7f372428-1300-4704-b71f-08839005efd1" alt="opción marcada 3" width="300">
 
 
 * Localización en el mapa de los distintos posts de los amigos
