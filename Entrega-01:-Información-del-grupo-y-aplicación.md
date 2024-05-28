@@ -52,5 +52,6 @@ Como funcionalidades extra se van a incluir:
 
 * Reconocimiento de canciones mediante el micrófono
 * Acciones interactivas con los sensores del dispositivo
-* Estadísticas dependiendo de la actividad
-* Integración de la geolocalización de los usuarios a la hora de compartir canciones
+* Integración de la geolocalización de los usuarios a la hora de compartir canciones, que permite que se muestren por medio de un mapa interactivo las publicaciones de tus amigos
+
+* Estadísticas dependiendo de la actividad - Esta funcionalidad no se ha implementado finalmente
