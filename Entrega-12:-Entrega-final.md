@@ -18,6 +18,8 @@ El propio micrófono del dispositivo cuenta como sensor, y lo utilizamos como me
 Al agitar el teléfono, se abre la funcionalidad de Shazam y se comienza a analizar el audio entrante para mostrar la canción que se está escuchando:
 
 <img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/3f7becb2-a28b-410d-aea9-b280e90a3033" alt="Shazam" width="300">
+<img src="https://github.com/ikergcalvino/SoundShare/assets/90251807/8fb0d302-8d4a-4193-b82a-a01d69ec6047" alt="Shazam 2" width="300">
+
 
 # Producto Mínimo Viable (PMV)
 
